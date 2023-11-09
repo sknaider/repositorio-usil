@@ -1,0 +1,14 @@
+//-libsfml-audio -libsfml-graphics -libsfml-system -libsfml-window
+
+esteee
+-lsfml-audio -lsfml-graphics -lsfml-system -lsfml-window
+
+ruta de archivos y directorios
+
+directorios y librerias
+
+C:\SFML-2.4.2\lib
+
+directorios  de include
+
+C:\SFML-2.4.2\include
